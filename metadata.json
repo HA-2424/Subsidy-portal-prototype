@@ -1,0 +1,6 @@
+{
+  "name": "PolyU Design Student Grant Portal",
+  "description": "Competition Subsidy & Reimbursement Portal for The Hong Kong Polytechnic University School of Design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
